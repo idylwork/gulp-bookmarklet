@@ -1,0 +1,14 @@
+{
+  "name": "gulp-bookmarklet",
+  "version": "0.1.0",
+  "description": "Gulp plugin to convert to bookmarklet format.",
+  "license": "MIT",
+  "main": "index.js",
+  "devDependencies": {
+    "event-stream": "^4.0.1",
+    "gulp": "^4.0.2",
+    "jszip": "^3.10.1",
+    "plugin-error": "^2.0.1",
+    "terser": "^5.28.1"
+  }
+}
